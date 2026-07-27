@@ -9,7 +9,7 @@ export default function Home() {
           Available for new opportunities
         </span>
         <h1 className="text-4xl sm:text-6xl font-extrabold tracking-tight text-slate-900 leading-tight max-w-3xl">
-          Building modern web apps & seamless automation systems.
+          Build modern web apps & seamless automation systems.
         </h1>
         <p className="text-lg text-slate-600 max-w-2xl leading-relaxed">
           I design and develop responsive React applications and automated workflows focused on performance, clean structure, and great user experience.
